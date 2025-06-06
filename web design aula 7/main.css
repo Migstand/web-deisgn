@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+header{
+    padding-left: 26em;
+}
+ol{
+    margin-left: 25em;
+   display: block;
+}
+h2{
+    padding-left: 17em;
+}
+address{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+p{
+    padding-left: 12em;
+    padding-right: 12em;
+    text-align: center;
+}
