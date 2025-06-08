@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+}
+header{
+    text-align: center;
+}
+main section p{
+    text-align: center;
+}
+main ul{
+    margin-right: 26em;
+    margin-left: 26em;
+}
+footer{
+    text-align: center;
+    background-color: white;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
